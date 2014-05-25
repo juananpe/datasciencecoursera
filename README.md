@@ -12,7 +12,7 @@ For doing that, it follows these steps:
   * column bind the three components 
   * row bind train and test to generate a single traintest dataframe 
 
-Next, itextracts only the measurements on the mean and standard deviation for each measurement. 
+Next, it extracts only the measurements on the mean and standard deviation for each measurement. 
   
   The algorithm is as follows:
   * read features.txt (feature names are strings)
